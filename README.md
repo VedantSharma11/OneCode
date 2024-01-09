@@ -42,10 +42,6 @@ CodeOne relies on the following dependencies:
 
 Note: Make sure to run `npm install` to install all the required dependencies. 📦⚙️
 
-## Contributing 🤝
-
-Contributions to CodeOne are welcome! If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository. Feel free to submit pull requests with proposed changes as well. 🙌🔧
-
 ## Authors ✍️
 
 The following individuals have contributed to the development of CodeOne:
